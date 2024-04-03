@@ -20,8 +20,8 @@
 >ROUTING COST: 150
 
 ## Screenshot
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/Crystallum/main/screenshoot/1.png)
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/Crystallum/main/screenshoot/2.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Crystallum/main/Screenshot/1.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Crystallum/main/Screenshot/2.png)
 
 ## Special thanks
 
