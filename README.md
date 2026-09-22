@@ -1,7 +1,7 @@
 # Tolian Moons (LLL)
 
 
-1 new game moon 
+1 New In-Game Moon 
 
 # New Moon: Crystallum
 
@@ -20,13 +20,21 @@
 >ROUTING COST: 150
 
 ## Screenshot
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/Crystallum/main/Screenshot/1.png)
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/Crystallum/main/Screenshot/2.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Crystallum/main/Screenshot/1_2.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Crystallum/main/Screenshot/1_3.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Crystallum/main/Screenshot/3.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Crystallum/main/Screenshot/4.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Crystallum/main/Screenshot/5.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Crystallum/main/Screenshot/6.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Crystallum/main/Screenshot/7.png)
 
 ## Special thanks
 
-- Thank you to **CashB0t** for the icon for the mod
+- Special thanks to **CashB0t** for the icon for the mod
+
+- Special thanks to **explodingturtles456** for testing the map
+- Special thanks to **ThecheeseXD** for testing the map
 
 #
 ### My discord - tolian
-
+- My discord server - [Tolian Serv](https://discord.gg/ybjPfxCKZX)
